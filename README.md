@@ -19,6 +19,7 @@ Finalise your cover letter in a Google Docs format.
 Name your document as per the given format (e.g., "StudentNo\*Classcode\*Group\*Name-Surname\*CDV04").
 Add the link to your Google Docs cover letter in this README.
 Submit the link to your GitHub Repo via the LMS Project Tab by the deadline.
+
 Link to Cover Letter
 https://docs.google.com/document/d/16ma_-Tgp52FrPhv1OQH35lC7HcQ-PQ2ZcEIj3tV9Hgo/edit?tab=t.0
 
